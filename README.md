@@ -45,4 +45,4 @@ streamlit run app/main.py
 
 This will launch the app in your default web browser. You can then upload an image of cells to analyze and adjust the various settings to customize the analysis. Once you are satisfied with the results, you can export the measurements to a CSV file for further analysis.
 
-![Alt text](https://www.dropbox.com/scl/fi/ist422uzw28183l568xmz/Screenshot-2025-06-29-04.09.38.png?rlkey=93x1gk0xjho53iq4a0j68rct1&dl=0 "Demo")
+[![DN-ZkIKP.png](https://i.postimg.cc/rmpwLRNG/DN-ZkIKP.png)](https://postimg.cc/gwfWVJ5r)
